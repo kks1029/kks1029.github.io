@@ -1,6 +1,6 @@
 ---
-layout: default
-modal-id: 1
+layout: post
+title: You're up and running!
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
